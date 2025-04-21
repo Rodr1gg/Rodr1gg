@@ -31,7 +31,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop&logoColor=31A8FF)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobeindesign&logoColor=EE3D8F)&nbsp;
 
 
 ---
@@ -39,6 +38,16 @@
 <h2>Connect with me!</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-2d2d2d?style=for-the-badge&labelColor=gray&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-machado-547814205/)
+
+---
+
+### Spotify Playlist 🎶
+
+[![My Playlist](https://img.shields.io/badge/Listen%20%20My%20Playlist-Spotify-1DB954?logo=spotify&color=1DB954&labelColor=000000)](https://open.spotify.com/playlist/3ShwcWN7ij9HMWz0DeGOrV?si=910acfa0f0884918)
+
+
+
+
 
 
 
